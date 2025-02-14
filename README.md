@@ -13,3 +13,5 @@ Numero minimo di push: 6
 Ricordatevi di fare anche il file README.md
 Ricordatevi di pushare di tanto in tanto per consegnare il vostro lavoro in modo incrementale.
 Buon lavoro!
+
+DONE
